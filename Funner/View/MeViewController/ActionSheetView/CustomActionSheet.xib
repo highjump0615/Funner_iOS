@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomActionSheetView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="271"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" translatesAutoresizingMaskIntoConstraints="NO" id="XOg-T2-Bvm">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="271"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zke-ep-N8r">
+                            <rect key="frame" x="15" y="24" width="290" height="44"/>
+                            <color key="backgroundColor" red="0.32156862749999998" green="0.62352941179999999" blue="0.80392156859999997" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="daN-c7-lfs"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <state key="normal" title="不看他发布的内容">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onButFirst:" destination="iN0-l3-epB" eventType="touchUpInside" id="hid-rG-Qfv"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lxU-Re-dtP">
+                            <rect key="frame" x="15" y="83" width="290" height="44"/>
+                            <color key="backgroundColor" red="0.32156862749999998" green="0.62352941179999999" blue="0.80392156859999997" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="Q6z-6p-iiv"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <state key="normal" title="不看他发布的内容">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onButSecond:" destination="iN0-l3-epB" eventType="touchUpInside" id="sG6-Ys-bEx"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l6t-88-vT8">
+                            <rect key="frame" x="15" y="142" width="290" height="44"/>
+                            <color key="backgroundColor" red="0.32156862749999998" green="0.62352941179999999" blue="0.80392156859999997" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="Vah-Fb-YpC"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <state key="normal" title="不让他看我发布的内容">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onButThird:" destination="iN0-l3-epB" eventType="touchUpInside" id="dwe-hn-XY7"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dkq-jF-Iqq">
+                            <rect key="frame" x="15" y="201" width="290" height="44"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="E14-GA-cCQ"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <state key="normal" title="取消">
+                                <color key="titleColor" red="0.2627450980392157" green="0.29019607843137252" blue="0.32941176470588235" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onButCancel:" destination="iN0-l3-epB" eventType="touchUpInside" id="1NP-0W-vIL"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.34901960784313724" blue="0.50980392156862742" alpha="0.90000000000000002" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="l6t-88-vT8" firstAttribute="leading" secondItem="XOg-T2-Bvm" secondAttribute="leading" constant="15" id="BR6-Y8-nZP"/>
+                        <constraint firstAttribute="trailing" secondItem="dkq-jF-Iqq" secondAttribute="trailing" constant="15" id="CLm-yz-YNN"/>
+                        <constraint firstItem="dkq-jF-Iqq" firstAttribute="leading" secondItem="XOg-T2-Bvm" secondAttribute="leading" constant="15" id="FXh-Yt-dcu"/>
+                        <constraint firstAttribute="trailing" secondItem="zke-ep-N8r" secondAttribute="trailing" constant="15" id="G90-ur-NL7"/>
+                        <constraint firstAttribute="trailing" secondItem="l6t-88-vT8" secondAttribute="trailing" constant="15" id="K7G-Fu-2zJ"/>
+                        <constraint firstItem="l6t-88-vT8" firstAttribute="top" secondItem="lxU-Re-dtP" secondAttribute="bottom" constant="15" id="M8U-tn-l69"/>
+                        <constraint firstItem="zke-ep-N8r" firstAttribute="leading" secondItem="XOg-T2-Bvm" secondAttribute="leading" constant="15" id="Rzn-kG-NaY"/>
+                        <constraint firstAttribute="bottom" secondItem="dkq-jF-Iqq" secondAttribute="bottom" constant="26" id="Wa8-7j-aZU"/>
+                        <constraint firstItem="lxU-Re-dtP" firstAttribute="leading" secondItem="XOg-T2-Bvm" secondAttribute="leading" constant="15" id="X8G-9g-nMe"/>
+                        <constraint firstItem="dkq-jF-Iqq" firstAttribute="top" secondItem="l6t-88-vT8" secondAttribute="bottom" constant="15" id="a02-Ac-RWU"/>
+                        <constraint firstAttribute="trailing" secondItem="lxU-Re-dtP" secondAttribute="trailing" constant="15" id="wVu-st-4Wh"/>
+                        <constraint firstItem="lxU-Re-dtP" firstAttribute="top" secondItem="zke-ep-N8r" secondAttribute="bottom" constant="15" id="yEz-6o-pM3"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="XOg-T2-Bvm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ARC-83-vjB"/>
+                <constraint firstItem="XOg-T2-Bvm" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Di4-Fi-XNs"/>
+                <constraint firstAttribute="bottom" secondItem="XOg-T2-Bvm" secondAttribute="bottom" id="Ndk-F3-xTp"/>
+                <constraint firstAttribute="trailing" secondItem="XOg-T2-Bvm" secondAttribute="trailing" id="lXO-vy-Eav"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="mButCancel" destination="dkq-jF-Iqq" id="rmc-3F-0Ii"/>
+                <outlet property="mButFirst" destination="zke-ep-N8r" id="COL-Rf-ehh"/>
+                <outlet property="mButSecond" destination="lxU-Re-dtP" id="52q-6I-V2k"/>
+                <outlet property="mButThird" destination="l6t-88-vT8" id="Ynh-RL-aKU"/>
+            </connections>
+            <point key="canvasLocation" x="437" y="411.5"/>
+        </view>
+    </objects>
+</document>

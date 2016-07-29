@@ -1,0 +1,453 @@
+
+/* Class = "IBUILabel"; text = "注册"; ObjectID = "0AG-eH-fjh"; */
+"0AG-eH-fjh.text" = "注册";
+
+/* Class = "IBUILabel"; text = "共126张"; ObjectID = "0hl-ub-gpE"; */
+"0hl-ub-gpE.text" = "共126张";
+
+/* Class = "IBUIButton"; normalTitle = "Allure Love, "; ObjectID = "0i4-wr-HOv"; */
+"0i4-wr-HOv.normalTitle" = "Allure Love, ";
+
+/* Class = "IBUITabBarItem"; title = "频道"; ObjectID = "0vi-38-cGZ"; */
+"0vi-38-cGZ.title" = "频道";
+
+/* Class = "IBUILabel"; text = "详情"; ObjectID = "11X-Yw-JLP"; */
+"11X-Yw-JLP.text" = "详情";
+
+/* Class = "IBUILabel"; text = "摄像、旅游、美食等5个爱好"; ObjectID = "1j1-j1-P1Y"; */
+"1j1-j1-P1Y.text" = "摄像、旅游、美食等5个爱好";
+
+/* Class = "IBUIButton"; normalTitle = "确定"; ObjectID = "1nj-ah-xtc"; */
+"1nj-ah-xtc.normalTitle" = "确定";
+
+/* Class = "IBUILabel"; text = "摄像、旅游、美食等5个爱好"; ObjectID = "1pr-Oc-zPq"; */
+"1pr-Oc-zPq.text" = "摄像、旅游、美食等5个爱好";
+
+/* Class = "IBUILabel"; text = "感觉折帐照片还是不错的！"; ObjectID = "2wW-cH-y4M"; */
+"2wW-cH-y4M.text" = "感觉折帐照片还是不错的！";
+
+/* Class = "IBUILabel"; text = "56个好友"; ObjectID = "2zD-8F-f8h"; */
+"2zD-8F-f8h.text" = "56个好友";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "2ze-dk-AYg"; */
+"2ze-dk-AYg.normalTitle" = "注册";
+
+/* Class = "IBUIButton"; normalTitle = "添加爱好"; ObjectID = "3NH-6N-nE5"; */
+"3NH-6N-nE5.normalTitle" = "添加爱好";
+
+/* Class = "IBUILabel"; text = "爱好名称"; ObjectID = "3me-iP-jPD"; */
+"3me-iP-jPD.text" = "爱好名称";
+
+/* Class = "IBUILabel"; text = "两次密码输入不一致"; ObjectID = "42T-NP-vet"; */
+"42T-NP-vet.text" = "两次密码输入不一致";
+
+/* Class = "IBUILabel"; text = "新的朋友"; ObjectID = "54l-OS-PM8"; */
+"54l-OS-PM8.text" = "新的朋友";
+
+/* Class = "IBUIButton"; normalTitle = "继续"; ObjectID = "5m0-SP-LRF"; */
+"5m0-SP-LRF.normalTitle" = "继续";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "64C-UL-Ntl"; */
+"64C-UL-Ntl.text" = "小小碎片";
+
+/* Class = "IBUIButton"; normalTitle = "确定"; ObjectID = "6N5-aQ-dqh"; */
+"6N5-aQ-dqh.normalTitle" = "确定";
+
+/* Class = "IBUILabel"; text = "3.2M"; ObjectID = "6vy-bn-L8E"; */
+"6vy-bn-L8E.text" = "3.2M";
+
+/* Class = "IBUITabBarItem"; title = "消息"; ObjectID = "79h-gv-1t0"; */
+"79h-gv-1t0.title" = "消息";
+
+/* Class = "IBUIButton"; normalTitle = "重发验证码"; ObjectID = "7Sr-66-0JH"; */
+"7Sr-66-0JH.normalTitle" = "发送验证码";
+
+/* Class = "IBUITextField"; placeholder = "再次输入新密码"; ObjectID = "7XU-xJ-uLe"; */
+"7XU-xJ-uLe.placeholder" = "再次输入新密码";
+
+/* Class = "IBUIButton"; normalTitle = "实时对讲"; ObjectID = "7ar-vm-7U9"; */
+"7ar-vm-7U9.normalTitle" = "实时对讲";
+
+/* Class = "IBUIButton"; normalTitle = "Flowers, "; ObjectID = "81c-dE-o07"; */
+"81c-dE-o07.normalTitle" = "Flowers, ";
+
+/* Class = "IBUILabel"; text = "昵称"; ObjectID = "8DH-NA-7jd"; */
+"8DH-NA-7jd.text" = "昵称";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "8Hf-8P-HKG"; */
+"8Hf-8P-HKG.text" = "小小碎片";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "8zt-Fn-9s9"; */
+"8zt-Fn-9s9.text" = "2";
+
+/* Class = "IBUILabel"; text = "摄像、旅游、美食等5个爱好"; ObjectID = "994-Ql-3gn"; */
+"994-Ql-3gn.text" = "摄像、旅游、美食等5个爱好";
+
+/* Class = "IBUIButton"; normalTitle = "杨思思"; ObjectID = "Bkg-ie-maK"; */
+"Bkg-ie-maK.normalTitle" = "杨思思";
+
+/* Class = "IBUILabel"; text = "修改密码"; ObjectID = "DdB-72-VC5"; */
+"DdB-72-VC5.text" = "修改密码";
+
+/* Class = "IBUILabel"; text = "[爱好名称] 分享"; ObjectID = "Eld-vs-Bcj"; */
+"Eld-vs-Bcj.text" = "[爱好名称] 分享";
+
+/* Class = "IBUIButton"; normalTitle = "名片"; ObjectID = "FgS-7g-NPD"; */
+"FgS-7g-NPD.normalTitle" = "名片";
+
+/* Class = "IBUILabel"; text = "最近一条的聊天信息内容"; ObjectID = "GHh-i3-JHD"; */
+"GHh-i3-JHD.text" = "最近一条的聊天信息内容";
+
+/* Class = "IBUILabel"; text = "朋友"; ObjectID = "GYx-Y2-1m3"; */
+"GYx-Y2-1m3.text" = "朋友";
+
+/* Class = "IBUITextField"; placeholder = "新密码"; ObjectID = "Hct-jK-6Vn"; */
+"Hct-jK-6Vn.placeholder" = "新密码";
+
+/* Class = "IBUIButton"; normalTitle = "发送"; ObjectID = "Hh0-t0-AZI"; */
+"Hh0-t0-AZI.normalTitle" = "发送";
+
+/* Class = "IBUILabel"; text = "我的爱好"; ObjectID = "HzT-6n-6ih"; */
+"HzT-6n-6ih.text" = "我的爱好";
+
+/* Class = "IBUITextField"; placeholder = "输入评论内容"; ObjectID = "Ibc-rT-hxS"; */
+"Ibc-rT-hxS.placeholder" = "输入评论内容";
+
+/* Class = "IBUILabel"; text = "56"; ObjectID = "Iuy-ZJ-ttB"; */
+"Iuy-ZJ-ttB.text" = "56";
+
+/* Class = "IBUILabel"; text = "朋友的朋友"; ObjectID = "Iyy-6V-nf2"; */
+"Iyy-6V-nf2.text" = "朋友的朋友";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "KCe-dl-FU3"; */
+"KCe-dl-FU3.text" = "小小碎片";
+
+/* Class = "IBUIButton"; normalTitle = "Allure Love, "; ObjectID = "KGI-3M-H2R"; */
+"KGI-3M-H2R.normalTitle" = "Allure Love, ";
+
+/* Class = "IBUIButton"; normalTitle = "杨思思"; ObjectID = "KGk-jN-Mx8"; */
+"KGk-jN-Mx8.normalTitle" = "杨思思";
+
+/* Class = "IBUIButton"; normalTitle = "查看全部16条评论"; ObjectID = "KMb-7K-SxQ"; */
+"KMb-7K-SxQ.normalTitle" = "查看全部16条评论";
+
+/* Class = "IBUIButton"; normalTitle = "定位"; ObjectID = "KNL-o4-pfG"; */
+"KNL-o4-pfG.normalTitle" = "定位";
+
+/* Class = "IBUILabel"; text = "摄像、旅游、美食等5个爱好"; ObjectID = "KNM-26-mvP"; */
+"KNM-26-mvP.text" = "摄像、旅游、美食等5个爱好";
+
+/* Class = "IBUILabel"; text = "李先生"; ObjectID = "KUz-iL-t0o"; */
+"KUz-iL-t0o.text" = "李先生";
+
+/* Class = "IBUILabel"; text = "15分钟前"; ObjectID = "Kkn-Kx-5oI"; */
+"Kkn-Kx-5oI.text" = "15分钟前";
+
+/* Class = "IBUILabel"; text = "人名"; ObjectID = "L9b-jp-2rD"; */
+"L9b-jp-2rD.text" = "人名";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "LWc-JK-DUv"; */
+"LWc-JK-DUv.text" = "小小碎片";
+
+/* Class = "IBUIButton"; normalTitle = "Flowers, "; ObjectID = "LXf-As-Lv7"; */
+"LXf-As-Lv7.normalTitle" = "Flowers, ";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "NRh-cG-gHM"; */
+"NRh-cG-gHM.normalTitle" = "登录";
+
+/* Class = "IBUILabel"; text = "修改昵称"; ObjectID = "NZ3-7U-z4w"; */
+"NZ3-7U-z4w.text" = "修改昵称";
+
+/* Class = "IBUILabel"; text = "昵称"; ObjectID = "OqR-Sc-LuQ"; */
+"OqR-Sc-LuQ.text" = "昵称";
+
+/* Class = "IBUIButton"; normalTitle = "确定"; ObjectID = "P8N-UG-Fic"; */
+"P8N-UG-Fic.normalTitle" = "确定";
+
+/* Class = "IBUILabel"; text = "15分钟前"; ObjectID = "P9E-ob-yzN"; */
+"P9E-ob-yzN.text" = "15分钟前";
+
+/* Class = "IBUILabel"; text = "忘记密码"; ObjectID = "PG4-04-fWF"; */
+"PG4-04-fWF.text" = "忘记密码";
+
+/* Class = "IBUILabel"; text = "头像"; ObjectID = "Pcz-cH-kk7"; */
+"Pcz-cH-kk7.text" = "头像";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "Pi3-9m-ERn"; */
+"Pi3-9m-ERn.text" = "小小碎片";
+
+/* Class = "IBUILabel"; text = "忘记密码"; ObjectID = "QgZ-AD-MrX"; */
+"QgZ-AD-MrX.text" = "忘记密码";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "Qoe-M6-gKe"; */
+"Qoe-M6-gKe.normalTitle" = "登录";
+
+/* Class = "IBUILabel"; text = "2014-10-12"; ObjectID = "RDH-L2-c76"; */
+"RDH-L2-c76.text" = "2014-10-12";
+
+/* Class = "IBUITextField"; placeholder = "输入验证码"; ObjectID = "Rza-We-DWe"; */
+"Rza-We-DWe.placeholder" = "输入验证码";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "Sgg-yB-zBk"; */
+"Sgg-yB-zBk.text" = "小小碎片";
+
+/* Class = "IBUIButton"; normalTitle = "视频聊天"; ObjectID = "T3g-P8-NcY"; */
+"T3g-P8-NcY.normalTitle" = "视频聊天";
+
+/* Class = "IBUITextField"; placeholder = "输入新密码"; ObjectID = "TjR-w2-PxF"; */
+"TjR-w2-PxF.placeholder" = "输入新密码";
+
+/* Class = "IBUILabel"; text = "朋友的朋友"; ObjectID = "Tz7-Oe-zM0"; */
+"Tz7-Oe-zM0.text" = "朋友的朋友";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "U3j-CD-axU"; */
+"U3j-CD-axU.normalTitle" = "注册";
+
+/* Class = "IBUILabel"; text = "2014-10-22"; ObjectID = "UCW-Aa-pcj"; */
+"UCW-Aa-pcj.text" = "2014-10-22";
+
+/* Class = "IBUIButton"; normalTitle = "赞过"; ObjectID = "Uru-5w-CoC"; */
+"Uru-5w-CoC.normalTitle" = "赞过";
+
+/* Class = "IBUILabel"; text = "消息"; ObjectID = "VLg-m2-8ux"; */
+"VLg-m2-8ux.text" = "消息";
+
+/* Class = "IBUIButton"; normalTitle = "Curtain"; ObjectID = "VqM-DE-j5D"; */
+"VqM-DE-j5D.normalTitle" = "Curtain";
+
+/* Class = "IBUIButton"; normalTitle = "滤镜"; ObjectID = "W5W-J8-6fY"; */
+"W5W-J8-6fY.normalTitle" = "滤镜";
+
+/* Class = "IBUILabel"; text = "微信联系人"; ObjectID = "Wgu-Bp-dKu"; */
+"Wgu-Bp-dKu.text" = "微信联系人";
+
+/* Class = "IBUIButton"; normalTitle = "小可爱"; ObjectID = "Wio-AM-1V9"; */
+"Wio-AM-1V9.normalTitle" = "小可爱";
+
+/* Class = "IBUIButton"; normalTitle = "收藏"; ObjectID = "Xeq-h6-ATQ"; */
+"Xeq-h6-ATQ.normalTitle" = "收藏";
+
+/* Class = "IBUILabel"; text = "12"; ObjectID = "XjV-2I-3dO"; */
+"XjV-2I-3dO.text" = "12";
+
+/* Class = "IBUIButton"; normalTitle = "朋友"; ObjectID = "YJA-dH-KBe"; */
+"YJA-dH-KBe.normalTitle" = "朋友";
+
+/* Class = "IBUILabel"; text = "帖子"; ObjectID = "YWA-ex-jgP"; */
+"YWA-ex-jgP.text" = "帖子";
+
+/* Class = "IBUIButton"; normalTitle = "发布"; ObjectID = "Yuw-bA-6XS"; */
+"Yuw-bA-6XS.normalTitle" = "发布";
+
+/* Class = "IBUILabel"; text = "选择"; ObjectID = "ZqJ-F9-aRd"; */
+"ZqJ-F9-aRd.text" = "选择";
+
+/* Class = "IBUILabel"; text = "小小碎片"; ObjectID = "Zqg-kk-4ME"; */
+"Zqg-kk-4ME.text" = "小小碎片";
+
+/* Class = "IBUILabel"; text = "编辑照片"; ObjectID = "aHN-aM-hBo"; */
+"aHN-aM-hBo.text" = "编辑照片";
+
+/* Class = "IBUILabel"; text = "1分钟前"; ObjectID = "aMZ-sk-LpV"; */
+"aMZ-sk-LpV.text" = "1分钟前";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "aTx-sd-c2J"; */
+"aTx-sd-c2J.normalTitle" = "登录";
+
+/* Class = "IBUIButton"; normalTitle = "说点什么"; ObjectID = "bHi-aG-z2g"; */
+"bHi-aG-z2g.normalTitle" = "说点什么";
+
+/* Class = "IBUITextField"; placeholder = "验证码"; ObjectID = "bRY-WG-Dyv"; */
+"bRY-WG-Dyv.placeholder" = "验证码";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "bs6-fn-Oi9"; */
+"bs6-fn-Oi9.normalTitle" = "登录";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "cDB-Et-WbF"; */
+"cDB-Et-WbF.normalTitle" = "注册";
+
+/* Class = "IBUIButton"; normalTitle = "Curtain, "; ObjectID = "cX8-4d-z0L"; */
+"cX8-4d-z0L.normalTitle" = "Curtain, ";
+
+/* Class = "IBUILabel"; text = "邀请"; ObjectID = "cbZ-dJ-PnH"; */
+"cbZ-dJ-PnH.text" = "邀请";
+
+/* Class = "IBUILabel"; text = "感觉折帐照片还是不错的！"; ObjectID = "d7z-pZ-5uZ"; */
+"d7z-pZ-5uZ.text" = "感觉折帐照片还是不错的！";
+
+/* Class = "IBUIButton"; normalTitle = "小可爱"; ObjectID = "dYa-fP-wdR"; */
+"dYa-fP-wdR.normalTitle" = "小可爱";
+
+/* Class = "IBUIButton"; normalTitle = "小萝卜"; ObjectID = "dnH-9e-f3F"; */
+"dnH-9e-f3F.normalTitle" = "小萝卜";
+
+/* Class = "IBUILabel"; text = "同好"; ObjectID = "dzR-ek-2tB"; */
+"dzR-ek-2tB.text" = "同好";
+
+/* Class = "IBUILabel"; text = "频道"; ObjectID = "eQk-3c-Qqp"; */
+"eQk-3c-Qqp.text" = "频道";
+
+/* Class = "IBUILabel"; text = "60秒后重新发送"; ObjectID = "eVY-Q4-gT2"; */
+"eVY-Q4-gT2.text" = "60秒后重新发送";
+
+/* Class = "IBUIButton"; normalTitle = "拍照"; ObjectID = "ecB-wo-dWz"; */
+"ecB-wo-dWz.normalTitle" = "拍照";
+
+/* Class = "IBUIButton"; normalTitle = "图片"; ObjectID = "epD-TT-J96"; */
+"epD-TT-J96.normalTitle" = "图片";
+
+/* Class = "IBUILabel"; text = "摄像、旅游、美食等5个爱好"; ObjectID = "eqF-eT-ign"; */
+"eqF-eT-ign.text" = "摄像、旅游、美食等5个爱好";
+
+/* Class = "IBUILabel"; text = "什么时候去"; ObjectID = "exG-Vw-epR"; */
+"exG-Vw-epR.text" = "什么时候去";
+
+/* Class = "IBUIButton"; normalTitle = "拍照"; ObjectID = "f46-fb-4I1"; */
+"f46-fb-4I1.normalTitle" = "拍照";
+
+/* Class = "IBUILabel"; text = "登录"; ObjectID = "f4m-pT-EMd"; */
+"f4m-pT-EMd.text" = "登录";
+
+/* Class = "IBUIButton"; normalTitle = "语音"; ObjectID = "f54-KY-C1b"; */
+"f54-KY-C1b.normalTitle" = "语音";
+
+/* Class = "IBUIButton"; normalTitle = "忘记密码"; ObjectID = "fHc-Pk-kyi"; */
+"fHc-Pk-kyi.normalTitle" = "忘记密码";
+
+/* Class = "IBUILabel"; text = "附近的人"; ObjectID = "fLr-wq-tqV"; */
+"fLr-wq-tqV.text" = "附近的人";
+
+/* Class = "IBUILabel"; text = "16个好友"; ObjectID = "fi2-NX-wAM"; */
+"fi2-NX-wAM.text" = "16个好友";
+
+/* Class = "IBUIButton"; normalTitle = "小萝卜"; ObjectID = "foN-eh-dnF"; */
+"foN-eh-dnF.normalTitle" = "小萝卜";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "gbz-HC-ptU"; */
+"gbz-HC-ptU.normalTitle" = "注册";
+
+/* Class = "IBUILabel"; text = "邀请朋友"; ObjectID = "gfx-vb-QKF"; */
+"gfx-vb-QKF.text" = "邀请朋友";
+
+/* Class = "IBUITextField"; placeholder = "密码"; ObjectID = "iIE-uO-Wfy"; */
+"iIE-uO-Wfy.placeholder" = "密码";
+
+/* Class = "IBUILabel"; text = "朋友的朋友"; ObjectID = "iXb-kf-oQv"; */
+"iXb-kf-oQv.text" = "朋友的朋友";
+
+/* Class = "IBUITextField"; placeholder = "密码"; ObjectID = "jD7-r4-nrl"; */
+"jD7-r4-nrl.placeholder" = "密码";
+
+/* Class = "IBUILabel"; text = "请输入你注册时填写的手机号码"; ObjectID = "jKG-Ae-m0r"; */
+"jKG-Ae-m0r.text" = "请输入你注册时填写的手机号码";
+
+/* Class = "IBUILabel"; text = "乐乎"; ObjectID = "jbs-fH-7Po"; */
+"jbs-fH-7Po.text" = "乐乎";
+
+/* Class = "IBUILabel"; text = "手机联系人"; ObjectID = "kcP-ql-7ID"; */
+"kcP-ql-7ID.text" = "手机联系人";
+
+/* Class = "IBUILabel"; text = "我是一个设计爱好者，我喜欢设计的生活我要做一个设计人"; ObjectID = "kd5-xf-I40"; */
+"kd5-xf-I40.text" = "我是一个设计爱好者，我喜欢设计的生活我要做一个设计人";
+
+/* Class = "IBUILabel"; text = "未收到验证码请点击 “重发验证码”"; ObjectID = "kim-v9-ctk"; */
+"kim-v9-ctk.text" = "未收到验证码请点击 “重发验证码”";
+
+/* Class = "IBUITextField"; placeholder = "输入手机号"; ObjectID = "kjI-TE-uTm"; */
+"kjI-TE-uTm.placeholder" = "输入手机号";
+
+/* Class = "IBUILabel"; text = "消息"; ObjectID = "kpS-z9-xf4"; */
+"kpS-z9-xf4.text" = "消息";
+
+/* Class = "IBUIButton"; normalTitle = "Curtain, "; ObjectID = "lNL-DC-O5Y"; */
+"lNL-DC-O5Y.normalTitle" = "Curtain, ";
+
+/* Class = "IBUITextField"; placeholder = "手机号"; ObjectID = "lrb-2z-A0n"; */
+"lrb-2z-A0n.placeholder" = "手机号";
+
+/* Class = "IBUILabel"; text = "共同好友：张某某、赵某某、王某某等5人"; ObjectID = "lte-D9-23V"; */
+"lte-D9-23V.text" = "共同好友：张某某、赵某某、王某某等5人";
+
+/* Class = "IBUILabel"; text = "修改简介"; ObjectID = "mH3-Gt-LEe"; */
+"mH3-Gt-LEe.text" = "修改简介";
+
+/* Class = "IBUILabel"; text = "距离：152KM"; ObjectID = "mXG-5g-Nkr"; */
+"mXG-5g-Nkr.text" = "距离：152KM";
+
+/* Class = "IBUIButton"; normalTitle = "标签"; ObjectID = "md1-bE-Aan"; */
+"md1-bE-Aan.normalTitle" = "标签";
+
+/* Class = "IBUILabel"; text = "编辑个人主页"; ObjectID = "nYD-oA-3Zt"; */
+"nYD-oA-3Zt.text" = "编辑个人主页";
+
+/* Class = "IBUIButton"; normalTitle = "确定"; ObjectID = "nqv-uf-sPf"; */
+"nqv-uf-sPf.normalTitle" = "确定";
+
+/* Class = "IBUIButton"; normalTitle = "Curtain"; ObjectID = "oTb-H6-vX5"; */
+"oTb-H6-vX5.normalTitle" = "Curtain";
+
+/* Class = "IBUILabel"; text = "什么时候去"; ObjectID = "pSL-AO-lNZ"; */
+"pSL-AO-lNZ.text" = "什么时候去";
+
+/* Class = "IBUIButton"; normalTitle = "赞过"; ObjectID = "pVf-cv-Ovn"; */
+"pVf-cv-Ovn.normalTitle" = "赞过";
+
+/* Class = "IBUITextField"; placeholder = "输入昵称"; ObjectID = "pad-eN-SfW"; */
+"pad-eN-SfW.placeholder" = "输入昵称";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "qmW-oq-b9B"; */
+"qmW-oq-b9B.text" = "3";
+
+/* Class = "IBUILabel"; text = "感觉上面的拍摄效果挺好的，如果以后有时间的，我希望自己也可以去拍摄一组这样的片子"; ObjectID = "qnu-rk-lea"; */
+"qnu-rk-lea.text" = "感觉上面的拍摄效果挺好的，如果以后有时间的，我希望自己也可以去拍摄一组这样的片子";
+
+/* Class = "IBUIButton"; normalTitle = "服务条款"; ObjectID = "rX1-hx-Xk9"; */
+"rX1-hx-Xk9.normalTitle" = "服务条款";
+
+/* Class = "IBUITextField"; placeholder = "旧密码"; ObjectID = "sJn-C4-YvB"; */
+"sJn-C4-YvB.placeholder" = "旧密码";
+
+/* Class = "IBUILabel"; text = "邀请朋友"; ObjectID = "sju-HV-K72"; */
+"sju-HV-K72.text" = "邀请朋友";
+
+/* Class = "IBUILabel"; text = "聊天"; ObjectID = "tJ6-6G-2CW"; */
+"tJ6-6G-2CW.text" = "聊天";
+
+/* Class = "IBUILabel"; text = "朋友们的爱好"; ObjectID = "thE-nR-6Yb"; */
+"thE-nR-6Yb.text" = "朋友们的爱好";
+
+/* Class = "IBUITabBarItem"; title = "个人"; ObjectID = "udY-72-A6r"; */
+"udY-72-A6r.title" = "个人";
+
+/* Class = "IBUILabel"; text = "赞过"; ObjectID = "vXm-Qf-0JZ"; */
+"vXm-Qf-0JZ.text" = "赞过";
+
+/* Class = "IBUILabel"; text = "吉他"; ObjectID = "vmS-1f-YOQ"; */
+"vmS-1f-YOQ.text" = "吉他";
+
+/* Class = "IBUILabel"; text = "幸福小猪"; ObjectID = "vvk-YO-4tI"; */
+"vvk-YO-4tI.text" = "幸福小猪";
+
+/* Class = "IBUILabel"; text = "点击 “完成” 即意味着你已阅读并同意"; ObjectID = "w0W-ti-pvA"; */
+"w0W-ti-pvA.text" = "点击 “完成” 即意味着你已阅读并同意";
+
+/* Class = "IBUITabBarItem"; title = "朋友"; ObjectID = "wHb-GT-lSR"; */
+"wHb-GT-lSR.title" = "朋友";
+
+/* Class = "IBUIButton"; normalTitle = "发送"; ObjectID = "wtL-vL-RcZ"; */
+"wtL-vL-RcZ.normalTitle" = "发送";
+
+/* Class = "IBUILabel"; text = "设置"; ObjectID = "wvX-29-55F"; */
+"wvX-29-55F.text" = "设置";
+
+/* Class = "IBUILabel"; text = "106"; ObjectID = "xFV-Ep-ZWg"; */
+"xFV-Ep-ZWg.text" = "106";
+
+/* Class = "IBUILabel"; text = "… …"; ObjectID = "z7F-xr-3uG"; */
+"z7F-xr-3uG.text" = "… …";
+
+/* Class = "IBUITextField"; placeholder = "手机号"; ObjectID = "zRq-rw-EHm"; */
+"zRq-rw-EHm.placeholder" = "手机号";
+
+/* Class = "IBUIButton"; normalTitle = "下一步"; ObjectID = "zca-yw-Wbi"; */
+"zca-yw-Wbi.normalTitle" = "下一步";
